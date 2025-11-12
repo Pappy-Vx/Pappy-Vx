@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Kolapo Kolawole  
 
-🎓 MSc Researcher | 💻 Full-Stack Developer | 🤖 Machine Learning & Data Science Enthusiast  
+🎓 MSc Researcher | 💻 JS & .NET Dev | 🤖 Machine Learning & Data Science Enthusiast  
 
-I’m passionate about **AI, computer vision, data science, and scalable software systems**. My projects span from **facial recognition with CNNs** to **machine learning-driven data analysis** and **web solutions with React/Node.js**. I enjoy blending research with real-world applications — building tech that solves problems.  
+I’m passionate about **AI, computer vision, data science, and scalable software systems**. My projects span from **facial recognition with CNNs** to **machine learning-driven data analysis** and **web solutions with React/.NET**. I enjoy blending research with real-world applications — building tech that solves problems.  
 
 ---
 
